@@ -2,7 +2,7 @@
 # Mainly they are: 
 #-- an openai account which generates an OPENAI_API_KEY (see the youtube link)
 # Then: (I installed these both with pip):
-openai
+openai == 0.28
 flask
 gunicorn
 
