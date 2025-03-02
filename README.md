@@ -3,19 +3,19 @@ flask run at command line.
 
 Note, this can be integrated into an automatic flask app (deployed using Heroku or Render) 
 
-#App: 
+## App: 
 This app is built using Flask, HTML, CSS, SQL and OpenAI GPT3 
 
-### Pre-requisites:
+## Pre-requisites:
 
 OPENAI_API_KEY can be set with export OPENAI_API_KEY = value (command line) 
 or use openai.api_key = key as a local variable straight into the app.py file 
 
-### Name of the project: "
+## Name of the project: "
 
 Creating a Flask WebApp for the OpenAI GPT3 engine"
 
-### Idea of the project:
+## Idea of the project:
 
 I used Flask, HTML, CSS, SQL and OpenAI GPT3 to create a Web App (an interface) to the OpenAI GPT3 Engine.
 This web app has a nice interface beautified with bootstrap and also has login, logout and regitration capabilities. 
