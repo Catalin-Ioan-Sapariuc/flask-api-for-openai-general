@@ -3,9 +3,8 @@ flask run at command line.
 
 Note, this can be integrated into an automatic flask app (deployed using Heroku or Render) 
 
-# Website
-
-This website is built using Flask, HTML, CSS, SQL and OpenAI GPT3 
+#App: 
+This app is built using Flask, HTML, CSS, SQL and OpenAI GPT3 
 
 ### Pre-requisites:
 
